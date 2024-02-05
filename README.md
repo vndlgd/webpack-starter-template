@@ -28,14 +28,14 @@ To use this template for a new project, follow these steps:
 
 ### Development
 To start the development server:
-    ```bash
-    npm start
+    ```
+    npm install
     ```
     This command will start the Webpack development server on port 8080. You can view your application at http://localhost:8080. The server provides live reloading for JavaScript, HTML, and CSS changes.
 
 ### Building for Production
 To build your application for production:
-    ```bash
+    ```
     npm run build
     ```
     This command will bundle your scripts, styles, and assets into the `dist` directory with content hash in filenames for caching purposes, ready for deployment.
