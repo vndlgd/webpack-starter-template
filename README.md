@@ -11,7 +11,7 @@ To use this template for a new project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/webpack-starter-template.git your-new-project-name
+    git clone https://github.com/vndlgd/webpack-starter-template.git your-new-project-name
     ```
 
 2. Navigate into your new project directory:
