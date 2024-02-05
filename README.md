@@ -10,17 +10,17 @@ Make sure you have Node.js installed on your system [Node.js](https://nodejs.org
 To use this template for a new project, follow these steps:
 
 1. Clone the repository:
-    ```bash
+    ```zsh
     git clone https://github.com/vndlgd/webpack-starter-template.git your-new-project-name
     ```
 
 2. Navigate into your new project directory:
-    ```bash
+    ```zsh
     cd your-new-project-name
     ```
 
 3. Install the necessary dependencies:
-    ```bash
+    ```zsh
     npm install
     ```
 
