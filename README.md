@@ -1,2 +1,3 @@
-# webpack-starter-template
-webpack template for new projects
+# Webpack Starter Template
+
+
